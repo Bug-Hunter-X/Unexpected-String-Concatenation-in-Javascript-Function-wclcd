@@ -1,0 +1,2 @@
+# Unexpected String Concatenation in Javascript Function
+This repository demonstrates a subtle bug in Javascript where a function unexpectedly concatenates strings instead of throwing a type error or performing type coercion.  The bug is present in `bug.js` and a solution is provided in `bugSolution.js`.
